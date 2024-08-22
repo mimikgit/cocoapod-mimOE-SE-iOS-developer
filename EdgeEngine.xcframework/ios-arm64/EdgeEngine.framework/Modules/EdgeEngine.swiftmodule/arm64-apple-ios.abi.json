@@ -1,0 +1,736 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyJSON",
+        "printedName": "SwiftyJSON",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "EdgeCore",
+        "printedName": "EdgeCore",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EdgeEngine"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "EdgeClient",
+        "printedName": "EdgeClient",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "expectedEdgeEngineVersion",
+            "printedName": "expectedEdgeEngineVersion()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE08expectedaD7VersionSSyFZ",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE08expectedaD7VersionSSyFZ",
+            "moduleName": "EdgeEngine",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setCustomPort",
+            "printedName": "setCustomPort(number:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<(), Foundation.NSError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSError",
+                    "printedName": "Foundation.NSError",
+                    "usr": "c:objc(cs)NSError"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int32",
+                "printedName": "Swift.Int32",
+                "usr": "s:s5Int32V"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE13setCustomPort6numbers6ResultOyytSo7NSErrorCGs5Int32V_tFZ",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE13setCustomPort6numbers6ResultOyytSo7NSErrorCGs5Int32V_tFZ",
+            "moduleName": "EdgeEngine",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "manageEdgeEngineLifecycle",
+            "printedName": "manageEdgeEngineLifecycle(manage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<(), Foundation.NSError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSError",
+                    "printedName": "Foundation.NSError",
+                    "usr": "c:objc(cs)NSError"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE06manageaD9Lifecycle0E0s6ResultOyytSo7NSErrorCGSb_tFZ",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE06manageaD9Lifecycle0E0s6ResultOyytSo7NSErrorCGSb_tFZ",
+            "moduleName": "EdgeEngine",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "startEdgeEngine",
+            "printedName": "startEdgeEngine(parameters:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<(), Foundation.NSError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSError",
+                    "printedName": "Foundation.NSError",
+                    "usr": "c:objc(cs)NSError"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "StartupParameters",
+                "printedName": "EdgeCore.EdgeClient.StartupParameters",
+                "usr": "s:8EdgeCore0A6ClientC17StartupParametersV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE05startaD010parameterss6ResultOyytSo7NSErrorCGAC17StartupParametersV_tYaF",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE05startaD010parameterss6ResultOyytSo7NSErrorCGAC17StartupParametersV_tYaF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stopEdgeEngine",
+            "printedName": "stopEdgeEngine()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE04stopaD0yyF",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE04stopaD0yyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "restartEdgeEngine",
+            "printedName": "restartEdgeEngine()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<(), Foundation.NSError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSError",
+                    "printedName": "Foundation.NSError",
+                    "usr": "c:objc(cs)NSError"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE07restartaD0s6ResultOyytSo7NSErrorCGyYaF",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE07restartaD0s6ResultOyytSo7NSErrorCGyYaF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resetEdgeEngine",
+            "printedName": "resetEdgeEngine()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<(), Foundation.NSError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSError",
+                    "printedName": "Foundation.NSError",
+                    "usr": "c:objc(cs)NSError"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE05resetaD0s6ResultOyytSo7NSErrorCGyF",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE05resetaD0s6ResultOyytSo7NSErrorCGyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "edgeEngineIsRunning",
+            "printedName": "edgeEngineIsRunning()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE04edgeD9IsRunningSbyF",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE04edgeD9IsRunningSbyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "edgeEngineParameters",
+            "printedName": "edgeEngineParameters()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "EdgeCore.EdgeClient.StartupParameters?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "StartupParameters",
+                    "printedName": "EdgeCore.EdgeClient.StartupParameters",
+                    "usr": "s:8EdgeCore0A6ClientC17StartupParametersV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE04edgeD10ParametersAC07StartupF0VSgyF",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE04edgeD10ParametersAC07StartupF0VSgyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "edgeEngineLifecycleIsManaged",
+            "printedName": "edgeEngineLifecycleIsManaged()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8EdgeCore0A6ClientC0A6EngineE04edgeD18LifecycleIsManagedSbyF",
+            "mangledName": "$s8EdgeCore0A6ClientC0A6EngineE04edgeD18LifecycleIsManagedSbyF",
+            "moduleName": "EdgeEngine",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@EdgeCore@objc(cs)EdgeClient",
+        "mangledName": "$s8EdgeCore0A6ClientC",
+        "moduleName": "EdgeCore",
+        "declAttributes": [
+          "Final",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "EdgeEngineClient",
+            "printedName": "EdgeEngineClient",
+            "usr": "s:8EdgeCore0A12EngineClientP",
+            "mangledName": "$s8EdgeCore0A12EngineClientP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+License.swift",
+      "kind": "StringLiteral",
+      "offset": 245,
+      "length": 34,
+      "value": "\"com.mimik.MIMIKEdgeMobileClient.\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+License.swift",
+      "kind": "StringLiteral",
+      "offset": 371,
+      "length": 21,
+      "value": "\"customConfiguration\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 269,
+      "length": 34,
+      "value": "\"com.mimik.MIMIKEdgeMobileClient.\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 399,
+      "length": 25,
+      "value": "\"customStartupParameters\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 289,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3729,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 276,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

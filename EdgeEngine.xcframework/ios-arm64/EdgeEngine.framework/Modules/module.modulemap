@@ -1,0 +1,11 @@
+framework module EdgeEngine {
+  umbrella header "EdgeEngine.h"
+  export *
+
+  module * { export * }
+}
+
+module EdgeEngine.Swift {
+  header "EdgeEngine-Swift.h"
+  requires objc
+}
