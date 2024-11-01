@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "EdgeEngine",
+    "printedName": "EdgeEngine",
     "children": [
       {
         "kind": "Import",
@@ -623,10 +623,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "EdgeEngineClient",
-            "printedName": "EdgeEngineClient",
-            "usr": "s:8EdgeCore0A12EngineClientP",
-            "mangledName": "$s8EdgeCore0A12EngineClientP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -676,6 +683,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "EdgeEngineClient",
+            "printedName": "EdgeEngineClient",
+            "usr": "s:8EdgeCore0A12EngineClientP",
+            "mangledName": "$s8EdgeCore0A12EngineClientP"
           }
         ]
       }

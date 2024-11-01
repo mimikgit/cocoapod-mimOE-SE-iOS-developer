@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "mimOE-SE-iOS-developer"
-  s.version      = "5.6.2"
+  s.version      = "5.7.0"
   s.summary      = "mimik mimOE client library"
 
   s.description  = <<-DESC
@@ -30,7 +30,7 @@ The mimik iOS suite consists of three individual cocoapod components:
 
   s.vendored_frameworks = "EdgeEngine.xcframework", "edge.framework"
 
-  s.dependency 'EdgeCore', '~> 5.6.2'
+  s.dependency 'EdgeCore', '~> 5.7.0'
 
   s.platform = 'ios', '15.0'
 end

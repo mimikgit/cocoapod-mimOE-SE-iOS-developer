@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
 // swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name EdgeEngine
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import Alamofire
 import EdgeCore
 @_exported import EdgeEngine
@@ -15,13 +16,9 @@ extension EdgeCore.EdgeClient : EdgeCore.EdgeEngineClient {
   public static func expectedEdgeEngineVersion() -> Swift.String
   public static func setCustomPort(number: Swift.Int32) -> Swift.Result<Swift.Void, Foundation.NSError>
   public static func manageEdgeEngineLifecycle(manage: Swift.Bool) -> Swift.Result<Swift.Void, Foundation.NSError>
-  #if compiler(>=5.3) && $AsyncAwait
   final public func startEdgeEngine(parameters: EdgeCore.EdgeClient.StartupParameters) async -> Swift.Result<Swift.Void, Foundation.NSError>
-  #endif
   final public func stopEdgeEngine()
-  #if compiler(>=5.3) && $AsyncAwait
   final public func restartEdgeEngine() async -> Swift.Result<Swift.Void, Foundation.NSError>
-  #endif
   final public func resetEdgeEngine() -> Swift.Result<Swift.Void, Foundation.NSError>
   final public func edgeEngineIsRunning() -> Swift.Bool
   final public func edgeEngineParameters() -> EdgeCore.EdgeClient.StartupParameters?

@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/EdgeEngine-Swift.h</key>
 		<data>
-		9MCkHohIRmPcIeXqvgmlr6+i6pc=
+		ncdeZv7MEH2rAt1UfJ5lcBuPm+Y=
 		</data>
 		<key>Headers/EdgeEngine.h</key>
 		<data>
@@ -26,27 +26,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zsl08PU8onMp7hVA1YOi2JWM9DQ=
+		6v5xE+PUy1AZ3mVTawGrsdiSRRw=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		6p7pBJ5mhPKwBpldRYYZnSNzNJk=
+		Nx14e2UC+XPUXUe4gsynyGhib6A=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		MRGn81/h40IyZVHY88TNLyJ14Iw=
+		i9CQGnUAcAWX0WTxUH6xREA8Z1E=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		A5ZcnLEwkDHuNAOTKV7UyxcXkNs=
+		mPK+bpRSqaapQZNEZ4zPVhvg2nA=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		MRGn81/h40IyZVHY88TNLyJ14Iw=
+		i9CQGnUAcAWX0WTxUH6xREA8Z1E=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		uDwf9p+lX7W13Jsuw1rxVQYzfLM=
+		/Gn7p8szR65Mwfyn8UM7fqnLp88=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S6GJmWtuA5Xxcid1ueCcDluHOzzmWH9Nduvw9mGgV2w=
+			f4ultUGpFBVYBOMDzExBBxDg9RFUU3TnxzsfpZAj76E=
 			</data>
 		</dict>
 		<key>Headers/EdgeEngine.h</key>
@@ -98,35 +98,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oae10osNH8u/xFXCP19RmcDrmIe3YZWOVEmuOi9me+E=
+			lTb3Yy0rzRL6doBW7x4KPIWGfZtSGUAYM0O5ZIz+PrU=
 			</data>
 		</dict>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Anc3AScZafpwrMPjwRqbW+iXb024bV4ZrxQcLy/yHRM=
+			abKyAMCd/5vByKz5YkITskxje7Ojpf5t821M6gU3u8g=
 			</data>
 		</dict>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XS/aN10S4LGADA7RA/kBYiLxDMV/J4QjzuDs3DrHON0=
+			vDnCpmwUUsK09EXMDRFC1InYtaB4dhWr/7bGfwf4qio=
 			</data>
 		</dict>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Anc3AScZafpwrMPjwRqbW+iXb024bV4ZrxQcLy/yHRM=
+			abKyAMCd/5vByKz5YkITskxje7Ojpf5t821M6gU3u8g=
 			</data>
 		</dict>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NjV8JsIWzRw8RC24E8cAdaLL2I3a09b5qn7rFFZUrVo=
+			IH5/wKg3uTUiMWaTwjdX6ztLHS1EZY/v9utS37E8mHo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
